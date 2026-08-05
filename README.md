@@ -1,92 +1,23 @@
-
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&text=hello%20stranger&fontSize=68&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=github.com/tbhimlukas&descAlignY=60&descSize=20"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=hello%20stranger&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=welcome%20to%20my%20profile&descAlignY=58&descSize=20" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Developer;Web+Development;Web+Design" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=6E9EFF&center=true&vCenter=true&width=600&lines=software+developer;web+development;web+design" alt="Typing animation" />
 </p>
 
-<div align="center">
-
-I'm a software developer mainly focusing on web development and web design.
-
-</div>
+<p align="center">
+  I'm a software developer mainly focusing on web development and web design.
+</p>
 
 <br>
 
-<div align="center">
-
-## ⚒️ Stack
-
-<img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nodejs,python,git,github,vscode,figma&theme=dark" />
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tbhimlukas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tbhimlukas&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-</div>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=tbhimlukas&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=tbhimlukas&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🔥 Contribution Streak
-
-<img src="https://streak-stats.demolab.com?user=tbhimlukas&theme=tokyonight&hide_border=true&background=00000000"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 💻 Currently Using
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,ts,python,docker&theme=dark" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=tbhimlukas&label=Profile+Views&color=6E9EFF&style=for-the-badge"/>
-
-</div>
+<h2 align="center">Stack</h2>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+  <img src="https://skillicons.dev/icons?i=ts,html,css,js,react,nodejs,python&theme=dark" alt="Skill icons" />
 </p>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" />
