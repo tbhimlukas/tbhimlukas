@@ -20,12 +20,4 @@
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tbhimlukas&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tbhimlukas&theme=tokyo-night&hide_border=true&bg_color=00000000" alt="Contribution graph" />
-</p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" />
