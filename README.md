@@ -7,8 +7,7 @@
 </p>
 
 <p align="center">
-  I'm a software developer mainly focusing on web development and web design.
-</p>
+blehhhhh</p>
 
 <br>
 
