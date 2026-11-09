@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=6E9EFF&center=true&vCenter=true&width=600&lines=software+developer;web+development;web+design" alt="Typing animation" />
-</p>
-
-<p align="center">
 blehhhhh</p>
 
 <br>
